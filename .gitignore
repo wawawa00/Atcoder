@@ -1,0 +1,20 @@
+# Pythonの実行時に生成されるキャッシュ（これはいらない）
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 仮想環境（これを入れるとリポジトリが巨大化して死ぬ）
+venv/
+.venv/
+env/
+
+# エディタ設定（個人の好みなので共有不要）
+.vscode/
+.idea/
+
+# macOS特有のゴミファイル
+.DS_Store
+
+# これはダメ
+pfn_1.py
+pfn_2.py
