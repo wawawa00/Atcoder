@@ -24,16 +24,9 @@ ojt
 ```
 > **注意**
 > `ojt` が動かない時は `source ~/.zshrc` を試すこと！
-# ログイン
-* ID:Ral88
-* Pass:domotodin8
 
 ## 記録
-1. tessoku-book
-    * a06:TLE
-    * a07:WA
-    * a08:考えは頭にあったが実装できないばか
-2. typical90
+1. typical90
     * 001
     * [x] 002 
     * 003
