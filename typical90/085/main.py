@@ -1,6 +1,7 @@
 import sys
 import math
 
+
 data = iter(sys.stdin.read().split())
 
 K = int(next(data))
