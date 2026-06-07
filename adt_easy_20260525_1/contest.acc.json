@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_easy_20260525_1",
+    "title": "AtCoder Daily Training EASY 2026/05/25 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260525_1"
+  },
+  "tasks": [
+    {
+      "id": "abc230_a",
+      "label": "A",
+      "title": "AtCoder Quiz 3",
+      "url": "https://atcoder.jp/contests/adt_easy_20260525_1/tasks/abc230_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc262_a",
+      "label": "B",
+      "title": "World Cup",
+      "url": "https://atcoder.jp/contests/adt_easy_20260525_1/tasks/abc262_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc362_b",
+      "label": "C",
+      "title": "Right Triangle",
+      "url": "https://atcoder.jp/contests/adt_easy_20260525_1/tasks/abc362_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc274_b",
+      "label": "D",
+      "title": "Line Sensor",
+      "url": "https://atcoder.jp/contests/adt_easy_20260525_1/tasks/abc274_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc372_c",
+      "label": "E",
+      "title": "Count ABC Again",
+      "url": "https://atcoder.jp/contests/adt_easy_20260525_1/tasks/abc372_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
